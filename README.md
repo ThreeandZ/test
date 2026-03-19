@@ -1,1 +1,2 @@
-# this is myrepository whitch be use to study,welcome!!
+# Cloud Coding Demo
+This is a demo project using GitHub's cloud-based tools.
